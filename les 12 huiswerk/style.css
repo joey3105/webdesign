@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    width: 700px;
+    height: 100px;
+    background-color: #007ba1;
+}
+footer {
+    width: 700px;
+    height: 100px;
+    background-color: #0dc926;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+table{
+    width: 100%;
+    height: 100%;
+}    
+table, tr, td{
+    border: 1px solid black;
+    height: 250px;
+    width: 250px;
+}
+#cell1{
+    background-color: aqua;
+    color: black;
+}
+#cell2{
+    background-color: rgb(29, 26, 199);
+}
+#cell3{
+    background-color: darkorange;
+    color:green 
+}
+#cell4{
+    background-color: cornflowerblue;
+}
+#cell5{
+    background-color: darkgoldenrod;
+    color: darkgray;
+}
+#cell6{
+    background-color: crimson;
+}
+#cell7{
+    background-color: darkgreen;
+    color: rgb(39, 58, 39);
+}
+#cell8{
+    background-color: deeppink;
+}
+#cell9{
+    background-color: firebrick;
+    color: darkturquoise;
+}
+#cell10{
+    background-color: lawngreen;
+}
+#cell11{
+    background-color: midnightblue;
+    color: antiquewhite;
+}
+#cell12{
+    background-color: red;
+}
+#cell13{
+    background-color: darkgrey;
+    color: yellow;
+}
+#cell14{
+    background-color: black;
+}
+#cell15{
+    background-color: khaki;
+    color: darkgreen;
+}
+#cell16{
+    background-color: dimgrey;
+}
